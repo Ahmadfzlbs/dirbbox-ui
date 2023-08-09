@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "796282728259",
+    "project_id": "dirbbox-42b2e",
+    "storage_bucket": "dirbbox-42b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796282728259:android:7805c209ee874b849309f6",
+        "android_client_info": {
+          "package_name": "com.dirbbox.dirbbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796282728259-kh4n2ql0qkl5224ehk6913gts191jheh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6_g-nRP2g0nx_PKytIg8Oh-eMMH6bjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796282728259-84kr4fvoi6pl47gitpgkd8eaugsk9t6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796282728259:android:89adaa647a2e60169309f6",
+        "android_client_info": {
+          "package_name": "com.example.dirbbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796282728259-kh4n2ql0qkl5224ehk6913gts191jheh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV6_g-nRP2g0nx_PKytIg8Oh-eMMH6bjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796282728259-84kr4fvoi6pl47gitpgkd8eaugsk9t6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
